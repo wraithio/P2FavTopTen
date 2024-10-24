@@ -14,3 +14,6 @@ body{
     color: (#FFA20D / 0.75);
 }
 
+.bg-black{
+    color: rgba(0, 0, 0, 0.40);
+}
