@@ -1,1 +1,6 @@
-
+body{
+    background-image: url(../assets/siteBGstillimage.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
