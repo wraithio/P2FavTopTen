@@ -4,3 +4,8 @@ body{
     background-attachment: fixed;
     background-size: 100%;
 }
+
+.centeritems{
+    display: flex;
+    justify-content: space-evenly;
+}
