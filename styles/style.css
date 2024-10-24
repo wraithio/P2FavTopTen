@@ -9,3 +9,8 @@ body{
     display: flex;
     justify-content: space-evenly;
 }
+
+.bg-navbar{
+    color: (#FFA20D / 0.75);
+}
+
