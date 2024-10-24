@@ -13,11 +13,3 @@ body{
 .bg-navbar{
     color: (#FFA20D / 0.75);
 }
-
-.bg-footer{
-    background-color: rgba(0, 0, 0, 0.795);
-}
-
-#titletext{
-    color: black;
-}
