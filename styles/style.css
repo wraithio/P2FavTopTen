@@ -58,7 +58,7 @@ hr {
 h5{
     font-size: 2rem;
 }
-@media screen and (max-width: 767px)  {
+@media screen and (max-width: 768px)  {
     
     body{
         background-size: cover;
