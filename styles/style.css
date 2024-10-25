@@ -98,3 +98,17 @@ body{
 
 
 /* Aarons edits */
+
+.card{
+    border: none;
+}
+
+hr{
+    border: none;
+    height: 3px;
+    color: black;
+    background-color: black;
+    opacity: 100%;
+    width: 80%;
+    margin: auto;
+}
