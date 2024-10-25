@@ -1,114 +1,47 @@
-body{
-    background-image: url(../assets/siteBGstillimage.png);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: 100%;
+body {
+  background-image: url(../assets/siteBGstillimage.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
 }
 
-.centeritems{
-    display: flex;
-    justify-content: space-evenly;
+.centeritems {
+  display: flex;
+  justify-content: space-evenly;
 }
 
-.bg-navbar{
-    color: (#FFA20D / 0.75);
+.bg-navbar {
+  color: (#ffa20d / 0.75);
 }
 
-.bg-footer{
-    background-color: rgba(0, 0, 0, 0.795);
+.bg-footer {
+  background-color: rgba(0, 0, 0, 0.795);
 }
 
-#titletext{
-    color: black;
+#titletext {
+  color: black;
 }
 
-.bg-black{
-    background-color: rgba(0, 0, 0, 0.40);
+.bg-black {
+  background-color: rgba(0, 0, 0, 0.4);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* Aarons edits */
 
-.card{
-    border: none;
+.card {
+  border: none;
 }
 
-hr{
-    border: none;
-    height: 3px;
-    color: black;
-    background-color: black;
-    opacity: 100%;
-    width: 80%;
-    margin: auto;
+hr {
+  border: none;
+  height: 3px;
+  color: black;
+  background-color: black;
+  opacity: 100%;
+  width: 80%;
+  margin: auto;
+}
+
+.img-fluid {
+  width: 325px;
+  height: 225px;
 }
