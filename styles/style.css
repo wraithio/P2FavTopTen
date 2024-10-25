@@ -2,7 +2,7 @@ body {
   background-image: url(../assets/siteBGstillimage.png);
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: 100%;
+  background-size: cover;
 }
 
 .centeritems {
@@ -20,6 +20,9 @@ body {
 
 #titletext {
   color: black;
+  padding-top: 2rem;
+  font-size: 5rem;
+
 }
 
 .bg-black {
@@ -45,3 +48,40 @@ hr {
   width: 325px;
   height: 225px;
 }
+
+.col-md-3{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 2rem;
+}
+
+h5{
+    font-size: 2rem;
+}
+@media screen and (max-width: 767px)  {
+    
+    body{
+        background-size: cover;
+    }
+    #titletext{
+        font-size: 3rem;
+    }
+
+    .btn{
+       align-items: center;
+       min-width: 1rem;
+    }
+
+    h5{
+        font-size: 1rem;
+        
+    }
+
+    .show{
+        display: flex;
+        justify-content: space-evenly;
+    }
+    }    
+
+
+
